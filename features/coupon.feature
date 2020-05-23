@@ -1,11 +1,11 @@
 #language: pt
 
-Funcionalidade: Carrinho
+Funcionalidade: Cupom de desconto
     Sendo um usuário que possui um carrinho de compras
     Posso inserir um cupom
     Para que eu possa obeter um desconto no valor total da minha compra
 
-    Cenario: Produtos disponíveis no meu carrinho
+    Cenario: Cliente ganha desconto
 
         Dado que adicionei os seguintes itens no meu carrinho:
             | item       | price    |
